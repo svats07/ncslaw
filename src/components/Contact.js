@@ -6,13 +6,10 @@ export default function Contact() {
       <h2>Contact Us</h2>
       <p className="section-subtitle">Get In Touch With Our Team</p>
       <div className="contact-container container">
-        <div className="contact-form">
-          <input type="text" placeholder="Your Name" />
-          <input type="email" placeholder="Your Email" />
-          <input type="tel" placeholder="Phone Number" />
-          <textarea placeholder="Tell us about your legal needs"></textarea>
-          <a href="#" className="btn" style={{display:'block',textAlign:'center'}}>Send Message</a>
-        </div>
+         <div className="contact-form">
+                    <img src={`${process.env.PUBLIC_URL}/Location.svg`} alt="Refer to Address" className="location-image" />
+
+        </div> 
         <div className="contact-info">
           <h3>Office Information</h3>
           <div className="contact-detail">

@@ -29,6 +29,29 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## Deploy to GitHub Pages
+
+1. Create a GitHub repository and push this project to it (for example `https://github.com/<GITHUB_USERNAME>/<REPO_NAME>`).
+2. In `package.json` set the `homepage` field to: `https://<GITHUB_USERNAME>.github.io/<REPO_NAME>` (replace placeholders).
+3. Install dependencies (this project already lists `gh-pages` in `package.json`):
+
+```powershell
+cd d:\Codes\React\NCSharmaLaw\ncslaw
+npm install
+```
+
+4. Deploy to GitHub Pages:
+
+```powershell
+npm run deploy
+```
+
+This will build the app and publish the `build` folder to the `gh-pages` branch. GitHub will serve the site from that branch (or from the repository's Pages settings).
+
+Notes:
+- If you prefer to install `gh-pages` yourself instead of relying on `package.json`, run `npm install --save-dev gh-pages`.
+- If your app uses client-side routing, consider using `HashRouter` or setting `basename` on your router.
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
