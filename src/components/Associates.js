@@ -22,37 +22,37 @@ export default function Associates() {
 				<Associate
 					name="Dr. N C Sharma"
 					title="Managing Partner"
-					img="mosaji.jpg"
+					img="mosaji.JPG"
 					bio="A formidable legal authority with over three decades of distinguished practice, whose leadership has shaped high-impact litigation across India’s courts and tribunals.Represented government bodies, leading corporates, universities, and public figures in complex and precedent setting matters."
 				/>
 				<Associate
 					name="Ajay Sharma"
 					title="Partner"
-					img="tinu.jpg"
+					img="tinu.JPG"
 					bio="A senior legal professional with over a decade of practice, with leadership and courtroom expertise established before the Supreme Court, Delhi High Court, and all Courts & Tribunals across Delhi–NCR in complex criminal and matrimonial matters."
 				/>
 				<Associate
 					name="Anand Lochave"
 					title="Senior Associate"
-					img="Anand.jpg"
+					img="Anand.JPG"
 					bio="Criminal Law specialist with extensive experience in commercial transactions."
 				/>
 				<Associate
 					name="Pankaj Bhardwaj"
 					title="Senior Associate"
-					img="pankaj.jpg"
+					img="pankaj.JPG"
 					bio="Family law attorney dedicated to compassionate representation in sensitive matters."
 				/>
 				<Associate
 					name="Anshul Vats"
 					title="Associate"
-					img="Anshul.jpg"
+					img="Anshul.JPG"
 					bio="Family law attorney dedicated to compassionate representation in sensitive matters."
 				/>
 				<Associate
 					name="Mukul Vats"
 					title="Associate"
-					img="Mukul.jpg"
+					img="Mukul.JPG"
 					bio="Criminal law attorney dedicated to compassionate representation in sensitive matters."
 				/>
 			</div>
