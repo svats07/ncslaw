@@ -30,13 +30,13 @@ export default function Associates() {
 				<Associate
 					name="Ajay Sharma"
 					title="Partner"
-					img="tinu.JPEG"
+					img="tinu.jpeg"
 					bio="A distinguished criminal law practitioner with over eleven years of extensive trial experience, having represented high-profile accused in multiple murder and MCOCA matters. Specializing in criminal litigation and cybercrime cases, with appearances before all District Courts of Delhi, various High Courts across states, and the Supreme Court of India."
 				/>
 				<Associate
 					name="Om Prakash Sharma"
 					title="Senior Associate"
-					img="OP.JPEG"
+					img="op.jpeg"
 					bio="A former Station House Officer across multiple Police Stations in Delhi, who retired as an Assistant Commissioner of Police from Delhi Police before transitioning into criminal litigation. Possessing extensive experience in criminal law with comprehensive knowledge across a wide spectrum of criminal cases."
 				/>
 				<Associate
