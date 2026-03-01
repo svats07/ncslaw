@@ -11,11 +11,13 @@ export default function Navbar() {
     setMenuOpen(false);
   };
 
+  const publicUrl = process.env.PUBLIC_URL || '';
+
   return (
     <nav>
       <div className="container nav-container">
         <div className="logo">
-          <img src={`${process.env.PUBLIC_URL}/nclogo.jpeg`} alt="NC Logo" className="logo-image" />
+          <img src={`${publicUrl}/nclogo.jpeg`} alt="NC Logo" className="logo-image" />
           <span className="logo-text">NC Sharma & Co. A Law Firm</span>
         </div>
         

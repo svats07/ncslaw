@@ -30,7 +30,7 @@ export default function Contact() {
 						<div>
 							<strong>Email</strong>
 							<br />
-							info@sterlinglaw.com
+							sharmaadvocate@gmail.com
 						</div>
 					</div>
 					<div className="contact-detail">
@@ -38,9 +38,9 @@ export default function Contact() {
 						<div>
 							<strong>Hours</strong>
 							<br />
-							Monday - Friday: 9:00 AM - 6:00 PM
+							Monday - Friday: 2:00 PM - 10:00 PM
 							<br />
-							Saturday: 10:00 AM - 2:00 PM
+							Sunday: 2:00 PM - 10:00 PM
 						</div>
 					</div>
 				</div>

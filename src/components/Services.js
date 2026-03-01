@@ -29,7 +29,7 @@ export default function Services() {
         <div className="service-card">
           <div className="service-icon">💼</div>
           <h3>Criminal & Economic Offences Litigation</h3>
-          <p>Matters involving ED, CBI, SFIO, MCOCA, NSA, and proceedings under the Negotiable Instruments Act.</p>
+          <p>Matters involving ED, CBI, SFIO, MCOCA, NIA, and proceedings under the Negotiable Instruments Act.</p>
         </div>
         <div className="service-card">
           <div className="service-icon">📋</div>
