@@ -11,7 +11,7 @@ export default function About() {
     }, 5000); // Change image every 5 seconds
 
     return () => clearInterval(interval);
-  }, []);
+  }, [images.length]);
 
   const backgroundImage = `url('${publicUrl}/${images[currentImageIndex]}')`;
   
