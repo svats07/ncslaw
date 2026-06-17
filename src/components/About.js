@@ -32,7 +32,7 @@ export default function About() {
         
         <div className="about-stats">
           <div className="stat-box">
-            <div className="stat-number">25+</div>
+            <div className="stat-number">35+</div>
             <div>Years of Experience</div>
           </div>
           <div className="stat-box">
